@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Namdeo Sargar!
 
-###  📞 857-880-0433 ⋄ 📧 [sargaraditya@gmail.com](mailto:sargaraditya@gmail.com) ⋄ [LinkedIn](https://www.linkedin.com) ⋄ [GitHub](https://github.com)
+###  📞 +91 9029025678 ⋄ 📧 [sargaraditya2204@gmail.com](mailto:sargaraditya2204@gmail.com) ⋄ [LinkedIn](https://www.linkedin.com) ⋄ [GitHub](https://github.com)
 
 ---
 
@@ -27,13 +27,6 @@ I'm a passionate Software Engineer with a knack for developing, optimizing, and 
 - ⚙️ **Efficiency Booster:** Automated ticket updates, cutting production time by 50%.
 - 🔗 **Seamless Integrator:** Developed a Java-based DAO and integrated frontend/backend components.
 - 🎨 **UX Enhancer:** Improved user satisfaction by 30% with a React and Bootstrap frontend.
-
-### 📌 Northeastern University Wellness Team
-**Application Developer Associate**  
-*Boston, MA | Jan 2022 - May 2022*
-
-- ✉️ **Notifier:** Created an automated email notification system using SMTP protocols.
-- 🤝 **Collaborator:** Worked with peers using Git and Agile methodologies for seamless code integration.
 
 ### 📌 Atos Syntel
 **Software Engineer**  
